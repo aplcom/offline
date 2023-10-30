@@ -1,1 +1,1 @@
-# offline
+#offline install .rpm packages
